@@ -10,3 +10,6 @@ J’ai beaucoup appris sur l’architecture d’un réseau de convolution et l�
 
 Projet réalisé en binôme avec Clément Elliker.
 
+Lien vers dataset : https://susanqq.github.io/UTKFace/
+
+Lien vers publications : https://arxiv.org/pdf/1703.10593.pdf (CycleGAN) et https://arxiv.org/pdf/1406.2661.pdf (GAN)
