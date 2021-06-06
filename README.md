@@ -13,3 +13,8 @@ Projet réalisé en binôme avec Clément Elliker.
 Lien vers dataset : https://susanqq.github.io/UTKFace/
 
 Lien vers publications : https://arxiv.org/pdf/1703.10593.pdf (CycleGAN) et https://arxiv.org/pdf/1406.2661.pdf (GAN)
+
+Exemple de bons résultats obtenus :
+
+<img width="467" alt="Capture d’écran 2021-06-06 à 08 47 41" src="https://user-images.githubusercontent.com/85393734/120915537-7d0ef300-c6a4-11eb-80bb-8cfb877452f9.png">
+
